@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/moulo/Desktop/TP_Exams/SFSD_Examen_TP/Premiere_partie",
-      "program": "c:/Users/moulo/Desktop/TP_Exams/SFSD_Examen_TP/Premiere_partie/build/Debug/outDebug",
+      "cwd": "[path]/SFSD_Examen_TP/Premiere_partie",
+      "program": "[path]/SFSD_Examen_TP/Premiere_partie/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
